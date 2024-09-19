@@ -10,8 +10,3 @@ New devices can be seamlessly integrated into the system without modifying exist
 Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
-In your solution you must provide the following in your Github link account:
-
- * Problem statement (description of the problem. Just copy what is stated here.
- * UML Class Diagram
- * Uploaded java codes for the solution.
